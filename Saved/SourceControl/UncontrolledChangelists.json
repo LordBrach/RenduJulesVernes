@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Temp.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/BY/0L4V9UCPY0UX19X3P9J1F1.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/MaterialInstance/MI_BlendScreen_Inst.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Levels/Temp.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Blueprints/Temp.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/MaterialInstance/MI_ColorShift.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/MaterialInstance/MI_Depth.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/MaterialInstance/MI_Pixelate.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/RT_Transition.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/PP_BlendScreen.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Depth/PP_Depth.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/PP_Depth.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Transi/TransiParameterCollection.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/TransiParameterCollection.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Transi/RT_Transition.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Transi/PP_BlendScreen.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Transi/BP_TransitionExample.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Transi/BP_CameraTransi.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/BP_CameraTransi.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/BP_TransitionExample.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Pixelate/PP_Pixelate.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/PP_Pixelate.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/ColorShift/PP_ColorShift.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/PP_ColorShift.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Transi/MI_BlendScreen_Inst.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/ColorShift/MI_ColorShift.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Depth/MI_Depth.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/PostProcess/Pixelate/MI_Pixelate.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Blueprints/BP_TransitionExample.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Blueprints/BP_CameraTransi.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/RenduJulesVernes/Content/Project/Assets/Materials/Temp.uasset"
+			]
+		}
+	]
+}
