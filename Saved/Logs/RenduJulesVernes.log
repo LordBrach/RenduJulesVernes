@@ -2090,3 +2090,226 @@ FPackageName: Skipped package /Game/Project/Levels/Temp has a valid, mounted, mo
 [2026.07.02-13.21.47:253][679]AssetCheck: /Game/Project/Levels/LevelArt Validation de la ressource
 [2026.07.02-13.21.47:262][679]LogActor: Loaded Actor (StaticMeshActor_UAID_2CF05DA91A5C64EA02_1251184199_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
 [2026.07.02-13.21.47:307][679]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.02-13.22.34:748][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.02-13.22.34:814][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.07.02-13.22.34:834][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.02-13.22.34:853][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.07.02-13.22.34:861][275]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/2/2W/WYNKVV7JA3C3UKXUOLYWRB
+[2026.07.02-13.22.34:861][275]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/WYNKVV7JA3C3UKXUOLYWRBB5282E33442D5C31BC5ACCBD469AFA97.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/2/2W/WYNKVV7JA3C3UKXUOLYWRB.uasset'
+[2026.07.02-13.22.34:868][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.816 ms (total: 485.553 ms)
+[2026.07.02-13.22.34:927][275]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.02-13.22.34:927][275]LogContentValidation: Enabled validators:
+[2026.07.02-13.22.34:927][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.02-13.22.34:928][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.02-13.22.34:928][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.02-13.22.34:928][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.02-13.22.34:928][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.02-13.22.34:928][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.02-13.22.34:928][275]AssetCheck: /Game/Project/Levels/LevelArt Validation de la ressource
+[2026.07.02-13.23.34:973][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1047.167725
+[2026.07.02-13.23.35:199][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.02-13.23.35:199][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1047.350586, Update Interval: 353.281647
+[2026.07.02-13.29.38:216][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1410.418213
+[2026.07.02-13.29.38:342][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.02-13.29.38:342][633]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1410.535278, Update Interval: 341.998352
+[2026.07.02-13.32.28:626][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.02-13.32.28:701][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.07.02-13.32.28:721][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.07.02-13.32.28:739][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.02-13.32.28:749][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/2/HY/0HRYAB9ZW67SFXGCZDQUZN
+[2026.07.02-13.32.28:749][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/0HRYAB9ZW67SFXGCZDQUZNFD32B8B04141D5176D5071BD024C4FC0.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/2/HY/0HRYAB9ZW67SFXGCZDQUZN.uasset'
+[2026.07.02-13.32.28:757][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/3/MV/7MMIS3IQHD8TYU8ZYQX69F
+[2026.07.02-13.32.28:758][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/7MMIS3IQHD8TYU8ZYQX69FE33CE3EE49C3BC7B64E600B4FA5EA34D.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/3/MV/7MMIS3IQHD8TYU8ZYQX69F.uasset'
+[2026.07.02-13.32.28:765][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/3/NX/UKQLSBSCET6WC23TVWN064
+[2026.07.02-13.32.28:765][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/UKQLSBSCET6WC23TVWN064C0DFD6CC4DF5B9B55B76DA8B4FF6DD84.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/3/NX/UKQLSBSCET6WC23TVWN064.uasset'
+[2026.07.02-13.32.28:772][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/MB/4R16PKLC3T6H1RDA760TFK
+[2026.07.02-13.32.28:773][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/4R16PKLC3T6H1RDA760TFK72434664450EEF546CC9958FDD7CBCC4.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/MB/4R16PKLC3T6H1RDA760TFK.uasset'
+[2026.07.02-13.32.28:779][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/U0/SJCRH404H26G9D9JJ4VR6Z
+[2026.07.02-13.32.28:779][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/SJCRH404H26G9D9JJ4VR6Z33AEE5C3471A87651F0BA8B29C56E8A7.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/U0/SJCRH404H26G9D9JJ4VR6Z.uasset'
+[2026.07.02-13.32.28:786][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/7/I5/EMEC6I2TA5CRGUWUKFKRGW
+[2026.07.02-13.32.28:787][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/EMEC6I2TA5CRGUWUKFKRGW3D6432DC41EA47B0875E11B6268C4802.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/7/I5/EMEC6I2TA5CRGUWUKFKRGW.uasset'
+[2026.07.02-13.32.28:794][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/8/LK/KBJRM8HY6KL5S341KT2IAQ
+[2026.07.02-13.32.28:794][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/KBJRM8HY6KL5S341KT2IAQCEFDCD644A68B29F145BB58056989F8C.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/8/LK/KBJRM8HY6KL5S341KT2IAQ.uasset'
+[2026.07.02-13.32.28:801][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/8/WO/W1DKZNPV6OE2AJ2D1ZQPRN
+[2026.07.02-13.32.28:802][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/W1DKZNPV6OE2AJ2D1ZQPRN5A762BAA48A765B632E9E480AA74638E.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/8/WO/W1DKZNPV6OE2AJ2D1ZQPRN.uasset'
+[2026.07.02-13.32.28:809][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/C/OZ/YJ0MM53P42N5IIWOCHJ84V
+[2026.07.02-13.32.28:809][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/YJ0MM53P42N5IIWOCHJ84V01B5637E43526498EB9F4CA6A236C865.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/C/OZ/YJ0MM53P42N5IIWOCHJ84V.uasset'
+[2026.07.02-13.32.28:817][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/B/YL/Z77RMGZXMWQSSHN132Y8FI
+[2026.07.02-13.32.28:817][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/Z77RMGZXMWQSSHN132Y8FI1E8AB34C483419886E5A90B59FB02AB5.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/B/YL/Z77RMGZXMWQSSHN132Y8FI.uasset'
+[2026.07.02-13.32.28:824][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/0/JH/ANNV0CDYUE10TFCZMUH7A1
+[2026.07.02-13.32.28:824][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/ANNV0CDYUE10TFCZMUH7A1BC39FF6E4932968313DC7E9926E9EC8D.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/0/JH/ANNV0CDYUE10TFCZMUH7A1.uasset'
+[2026.07.02-13.32.28:831][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/E/Z1/B9EUM89S6AEQSB83598RYM
+[2026.07.02-13.32.28:831][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/B9EUM89S6AEQSB83598RYM932533194E0083F95A42609D8836CCE8.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/E/Z1/B9EUM89S6AEQSB83598RYM.uasset'
+[2026.07.02-13.32.28:837][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/D/GF/JVTGI3CLKX666ULB15O1LK
+[2026.07.02-13.32.28:838][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/JVTGI3CLKX666ULB15O1LK36A3881B4B5AEC0CBF02EB95D720493B.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/D/GF/JVTGI3CLKX666ULB15O1LK.uasset'
+[2026.07.02-13.32.28:845][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/3/U0/A5HGXZ1KL5SQITVN4P5XIO
+[2026.07.02-13.32.28:845][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/A5HGXZ1KL5SQITVN4P5XIOC8EFEF9A461365A90234378C072680F1.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/3/U0/A5HGXZ1KL5SQITVN4P5XIO.uasset'
+[2026.07.02-13.32.28:852][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/7/JK/LIJFBXWYR9USYZOYI7V7MD
+[2026.07.02-13.32.28:852][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/LIJFBXWYR9USYZOYI7V7MD127672624DD21377B7F31187C9498385.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/7/JK/LIJFBXWYR9USYZOYI7V7MD.uasset'
+[2026.07.02-13.32.28:859][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/AQ/RP5D4YEMJPSHK2RHBL024X
+[2026.07.02-13.32.28:859][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/RP5D4YEMJPSHK2RHBL024X90EDFFBB419C4EBE8A9C0AB23D434873.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/AQ/RP5D4YEMJPSHK2RHBL024X.uasset'
+[2026.07.02-13.32.28:866][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/1/LY/HF328QFIQMQPVVD5QX32QC
+[2026.07.02-13.32.28:866][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/HF328QFIQMQPVVD5QX32QC54BC23F34BBCF0D6E2C6EF89FB1E436A.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/1/LY/HF328QFIQMQPVVD5QX32QC.uasset'
+[2026.07.02-13.32.28:873][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/C/1B/42Z5GR9I1CV1GE1M21ALYZ
+[2026.07.02-13.32.28:873][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/42Z5GR9I1CV1GE1M21ALYZ4032CB0C475ADA3C2C802989546D8D9E.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/C/1B/42Z5GR9I1CV1GE1M21ALYZ.uasset'
+[2026.07.02-13.32.28:881][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/9/XQ/42DTH7BKWB9NTB5QG4MEKN
+[2026.07.02-13.32.28:881][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/42DTH7BKWB9NTB5QG4MEKN2BAE02AD482E687BE6724BB494DE926E.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/9/XQ/42DTH7BKWB9NTB5QG4MEKN.uasset'
+[2026.07.02-13.32.28:889][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/B/MW/J28273BIEUOTQ2UTBMQ6AU
+[2026.07.02-13.32.28:889][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/J28273BIEUOTQ2UTBMQ6AU4CFF11724220B1744848A4840BCE27CE.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/B/MW/J28273BIEUOTQ2UTBMQ6AU.uasset'
+[2026.07.02-13.32.28:896][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/A/GX/83ZQHDAEOW62077UKFJE01
+[2026.07.02-13.32.28:896][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/83ZQHDAEOW62077UKFJE01F93CAB7045EF11289E602199EF699832.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/A/GX/83ZQHDAEOW62077UKFJE01.uasset'
+[2026.07.02-13.32.28:903][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/1/23/9ITLTUFHIR960TPJTTAAGZ
+[2026.07.02-13.32.28:903][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/9ITLTUFHIR960TPJTTAAGZ0F797F654C0DFE0963210BBCBF33FE09.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/1/23/9ITLTUFHIR960TPJTTAAGZ.uasset'
+[2026.07.02-13.32.28:910][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/1/SH/C4KXT1I8HEQPCRLSCORFQL
+[2026.07.02-13.32.28:910][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/C4KXT1I8HEQPCRLSCORFQL997B60784864638F66D4F1B2300E9064.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/1/SH/C4KXT1I8HEQPCRLSCORFQL.uasset'
+[2026.07.02-13.32.28:917][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/1/LL/KCNND5RK3FWS6P8LV09NLK
+[2026.07.02-13.32.28:917][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/KCNND5RK3FWS6P8LV09NLKF89CC8974C31EDA9002FBAA3B995CC65.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/1/LL/KCNND5RK3FWS6P8LV09NLK.uasset'
+[2026.07.02-13.32.28:924][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/B/R0/PMLUEXPKTRM28XUKGZME24
+[2026.07.02-13.32.28:924][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/PMLUEXPKTRM28XUKGZME2493E5D50E48D16A2086406CB7B7317649.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/B/R0/PMLUEXPKTRM28XUKGZME24.uasset'
+[2026.07.02-13.32.28:932][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/5/S4/R4L6VWK6GIZ9EQX2SFS9LP
+[2026.07.02-13.32.28:932][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/R4L6VWK6GIZ9EQX2SFS9LP88052E3947F973A8ECF592AE3768F55D.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/5/S4/R4L6VWK6GIZ9EQX2SFS9LP.uasset'
+[2026.07.02-13.32.28:939][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/4/ZC/USI1B2ZXZV152U52TVH642
+[2026.07.02-13.32.28:939][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/USI1B2ZXZV152U52TVH642871E181C4305C671C17889920CC39427.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/4/ZC/USI1B2ZXZV152U52TVH642.uasset'
+[2026.07.02-13.32.28:946][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/7/T5/EVL919AHVAHITMMPKYGEIS
+[2026.07.02-13.32.28:946][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/EVL919AHVAHITMMPKYGEIS8FE447E24A42A245A7FF54B08DEE5B97.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/7/T5/EVL919AHVAHITMMPKYGEIS.uasset'
+[2026.07.02-13.32.28:952][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/8/3W/YZ2IDFOB8UVZ228PXSKPDF
+[2026.07.02-13.32.28:952][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/YZ2IDFOB8UVZ228PXSKPDF481026B7452988E8BBDCE2B59C203346.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/8/3W/YZ2IDFOB8UVZ228PXSKPDF.uasset'
+[2026.07.02-13.32.28:959][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/7/KN/2AJE8CEWTK197JFG1D0CUU
+[2026.07.02-13.32.28:959][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/2AJE8CEWTK197JFG1D0CUU6314EDC54CDA2FE16D7F67B4FA9253B7.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/7/KN/2AJE8CEWTK197JFG1D0CUU.uasset'
+[2026.07.02-13.32.28:967][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/YX/J2QNQWKL1A99CIKE9LVXHL
+[2026.07.02-13.32.28:967][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/J2QNQWKL1A99CIKE9LVXHLE78D677F4CFE3FA0037C0EACE82E6196.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/YX/J2QNQWKL1A99CIKE9LVXHL.uasset'
+[2026.07.02-13.32.28:974][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/C/GO/HDYAOBNSH1L3R5A57Q1S7S
+[2026.07.02-13.32.28:974][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/HDYAOBNSH1L3R5A57Q1S7S67DC75D74BC53711A44C148075456F5C.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/C/GO/HDYAOBNSH1L3R5A57Q1S7S.uasset'
+[2026.07.02-13.32.28:981][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/F/2N/K9BPHDQR0RVGUUC19RUD15
+[2026.07.02-13.32.28:981][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/K9BPHDQR0RVGUUC19RUD15A23F1E0D4CAD9AB13ABE64ABCEFA0095.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/F/2N/K9BPHDQR0RVGUUC19RUD15.uasset'
+[2026.07.02-13.32.28:987][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/B/UL/HRGJCZE1ICH07H9BBZK7OV
+[2026.07.02-13.32.28:988][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/HRGJCZE1ICH07H9BBZK7OV0605BA54437F1C3AE969DAA100B566F0.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/B/UL/HRGJCZE1ICH07H9BBZK7OV.uasset'
+[2026.07.02-13.32.28:995][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/FM/M8C855K5S5X4G6EFDBN9D8
+[2026.07.02-13.32.28:995][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/M8C855K5S5X4G6EFDBN9D85EBBBBC5410C4E1CA19E2BB3AA22EED6.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/FM/M8C855K5S5X4G6EFDBN9D8.uasset'
+[2026.07.02-13.32.29:002][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/4/4P/OZRP68D7CYK9T1CI6QUTIW
+[2026.07.02-13.32.29:002][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/OZRP68D7CYK9T1CI6QUTIWDDA372474E3ED686794A9483E1E5A05E.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/4/4P/OZRP68D7CYK9T1CI6QUTIW.uasset'
+[2026.07.02-13.32.29:009][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/E/4T/86H6D7OWTLBVSIFDL9A4BY
+[2026.07.02-13.32.29:009][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/86H6D7OWTLBVSIFDL9A4BY0E09F7F3490ADEA16B76E0B834DB1BF9.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/E/4T/86H6D7OWTLBVSIFDL9A4BY.uasset'
+[2026.07.02-13.32.29:016][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/0/E7/ZR53OIXWWCGUXCGQRTJOKP
+[2026.07.02-13.32.29:016][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/ZR53OIXWWCGUXCGQRTJOKPAACFC247439BBED5A7945BB31855C669.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/0/E7/ZR53OIXWWCGUXCGQRTJOKP.uasset'
+[2026.07.02-13.32.29:023][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/1/ZN/07XT0ICF10B7I6FV09RCIQ
+[2026.07.02-13.32.29:023][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/07XT0ICF10B7I6FV09RCIQ7183DFFF4831020952895F893709F497.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/1/ZN/07XT0ICF10B7I6FV09RCIQ.uasset'
+[2026.07.02-13.32.29:030][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/A/FP/BVTJLUHDQKA7OLASOLBT3D
+[2026.07.02-13.32.29:030][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/BVTJLUHDQKA7OLASOLBT3DC94487024FDE5E07A63DE2B412B1AA71.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/A/FP/BVTJLUHDQKA7OLASOLBT3D.uasset'
+[2026.07.02-13.32.29:037][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/D/0V/TZKCOHQRIVJFTN1ZOID9BQ
+[2026.07.02-13.32.29:037][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/TZKCOHQRIVJFTN1ZOID9BQ5497021B47761D8AFAA603B41299492B.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/D/0V/TZKCOHQRIVJFTN1ZOID9BQ.uasset'
+[2026.07.02-13.32.29:045][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/A/Y5/EG9KFJRKZDERBRXAH4NSBN
+[2026.07.02-13.32.29:045][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/EG9KFJRKZDERBRXAH4NSBNDFEC5A5049D9FE57D52FAFACA178E1F4.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/A/Y5/EG9KFJRKZDERBRXAH4NSBN.uasset'
+[2026.07.02-13.32.29:051][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/9/ET/KE98YHI801CCGIJFF1QWZW
+[2026.07.02-13.32.29:051][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/KE98YHI801CCGIJFF1QWZWB3FD2BB8464097AE0983618A88EF5410.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/9/ET/KE98YHI801CCGIJFF1QWZW.uasset'
+[2026.07.02-13.32.29:059][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/9/HU/011CK4HV7GYDO4BLBPFKKT
+[2026.07.02-13.32.29:059][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/011CK4HV7GYDO4BLBPFKKT69C176E047BB7F57C9F62DAA443FD23E.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/9/HU/011CK4HV7GYDO4BLBPFKKT.uasset'
+[2026.07.02-13.32.29:066][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/D/QG/E22PT0EA34MSKXHUUIE538
+[2026.07.02-13.32.29:066][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/E22PT0EA34MSKXHUUIE53879A9F32B4695C2666EC696BF905ABC68.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/D/QG/E22PT0EA34MSKXHUUIE538.uasset'
+[2026.07.02-13.32.29:073][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/5/RI/GOAOIIX5BO2ZOP73NDQK04
+[2026.07.02-13.32.29:073][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/GOAOIIX5BO2ZOP73NDQK04005CCDDF4DB799491633118835A6AAE5.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/5/RI/GOAOIIX5BO2ZOP73NDQK04.uasset'
+[2026.07.02-13.32.29:081][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/9/91/FPHO6H1EWRDS355UW0IJUC
+[2026.07.02-13.32.29:081][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/FPHO6H1EWRDS355UW0IJUC589784844C8900739039B7950587ADC3.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/9/91/FPHO6H1EWRDS355UW0IJUC.uasset'
+[2026.07.02-13.32.29:088][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/E/I5/U0M5ICVQ2FF0FJ6Z3ZDEJ8
+[2026.07.02-13.32.29:088][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/U0M5ICVQ2FF0FJ6Z3ZDEJ8502C078C46DE542C32CB0B9E607C2773.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/E/I5/U0M5ICVQ2FF0FJ6Z3ZDEJ8.uasset'
+[2026.07.02-13.32.29:095][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/C/X0/SNPKRFLOH3JQXK1T1UIWAB
+[2026.07.02-13.32.29:095][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/SNPKRFLOH3JQXK1T1UIWAB3702DB704191C181CF1410BB241C61B2.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/C/X0/SNPKRFLOH3JQXK1T1UIWAB.uasset'
+[2026.07.02-13.32.29:102][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/D/IJ/4C1TRMKN3M5UI6IRO7DZXH
+[2026.07.02-13.32.29:102][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/4C1TRMKN3M5UI6IRO7DZXHC1A67C584DE96AF1572D8F99F6D5DBC1.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/D/IJ/4C1TRMKN3M5UI6IRO7DZXH.uasset'
+[2026.07.02-13.32.29:109][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/5/EL/AFCFI5O6H7PIHDD4FFA3U9
+[2026.07.02-13.32.29:109][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/AFCFI5O6H7PIHDD4FFA3U942CA079B453C80F2EBBD77AEADEBC6C5.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/5/EL/AFCFI5O6H7PIHDD4FFA3U9.uasset'
+[2026.07.02-13.32.29:117][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/YF/7RPGLTK6BDOIIUM60I18KI
+[2026.07.02-13.32.29:117][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/7RPGLTK6BDOIIUM60I18KIA115DDF2462D101667CB489549B7051E.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/YF/7RPGLTK6BDOIIUM60I18KI.uasset'
+[2026.07.02-13.32.29:124][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/7/YA/BE8U02IBGLTJK1O3VAXD70
+[2026.07.02-13.32.29:124][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/BE8U02IBGLTJK1O3VAXD70A999A1EE40880330E6299591E539C331.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/7/YA/BE8U02IBGLTJK1O3VAXD70.uasset'
+[2026.07.02-13.32.29:131][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/CK/558JU2FFA1LGW24BM66J1P
+[2026.07.02-13.32.29:132][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/558JU2FFA1LGW24BM66J1P89DA27744A5B8BBC9102149E69598896.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/CK/558JU2FFA1LGW24BM66J1P.uasset'
+[2026.07.02-13.32.29:138][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/5/1H/XR3S2H2L6WOVRTIY5PSHL9
+[2026.07.02-13.32.29:138][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/XR3S2H2L6WOVRTIY5PSHL94BA0E3EC4AF15789CB112092E1F83F05.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/5/1H/XR3S2H2L6WOVRTIY5PSHL9.uasset'
+[2026.07.02-13.32.29:145][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/E/L1/DERW89FOX34WDO76H34COY
+[2026.07.02-13.32.29:145][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/DERW89FOX34WDO76H34COY43689855423E0FD5D8C652AF89D1EB94.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/E/L1/DERW89FOX34WDO76H34COY.uasset'
+[2026.07.02-13.32.29:152][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/A/DL/Q5FK6VH71HMAP77IGO27P4
+[2026.07.02-13.32.29:152][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/Q5FK6VH71HMAP77IGO27P4AD29BB9740F787C8FE21988088071099.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/A/DL/Q5FK6VH71HMAP77IGO27P4.uasset'
+[2026.07.02-13.32.29:159][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/2/2H/J8FC5QU9BGD5LHR4NNS12M
+[2026.07.02-13.32.29:159][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/J8FC5QU9BGD5LHR4NNS12ME186058A4787FFC53990B19094BDE96A.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/2/2H/J8FC5QU9BGD5LHR4NNS12M.uasset'
+[2026.07.02-13.32.29:167][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/A/A0/8A9DB9HBG0VUPRMWQ06BD9
+[2026.07.02-13.32.29:167][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/8A9DB9HBG0VUPRMWQ06BD98AE76AC144DB55F16D26CEBFB6DD4C71.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/A/A0/8A9DB9HBG0VUPRMWQ06BD9.uasset'
+[2026.07.02-13.32.29:174][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/1/GP/02K85B09GWY8YYLQBHICDN
+[2026.07.02-13.32.29:174][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/02K85B09GWY8YYLQBHICDN470016894B6C9F42530996B485B16547.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/1/GP/02K85B09GWY8YYLQBHICDN.uasset'
+[2026.07.02-13.32.29:181][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/8/PS/66CVZCXCVUYZA2NPO3SS9C
+[2026.07.02-13.32.29:181][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/66CVZCXCVUYZA2NPO3SS9CED94EF1145CCD6AE30704785F9FE69A5.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/8/PS/66CVZCXCVUYZA2NPO3SS9C.uasset'
+[2026.07.02-13.32.29:188][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/D/XX/51J5XWMAPA8GJMKBQZSEO8
+[2026.07.02-13.32.29:188][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/51J5XWMAPA8GJMKBQZSEO860944B0F4AA5C6C18BCC2A83961C542D.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/D/XX/51J5XWMAPA8GJMKBQZSEO8.uasset'
+[2026.07.02-13.32.29:195][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/4/QK/ENQXK8L5ZRAUM1RVPKFG81
+[2026.07.02-13.32.29:195][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/ENQXK8L5ZRAUM1RVPKFG815D55104B44C4F71250D97B9D0A1382DF.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/4/QK/ENQXK8L5ZRAUM1RVPKFG81.uasset'
+[2026.07.02-13.32.29:202][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/C/73/WNQ1TRROU8PNXYG8PDW7O3
+[2026.07.02-13.32.29:202][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/WNQ1TRROU8PNXYG8PDW7O35C54333C48A4C03E4D20FD90BA65A818.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/C/73/WNQ1TRROU8PNXYG8PDW7O3.uasset'
+[2026.07.02-13.32.29:209][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/B/R9/FPJ6DM7FL8O0RS4YJFS9Q5
+[2026.07.02-13.32.29:209][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/FPJ6DM7FL8O0RS4YJFS9Q5AD8145004E39A7884F311E9B43514389.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/B/R9/FPJ6DM7FL8O0RS4YJFS9Q5.uasset'
+[2026.07.02-13.32.29:216][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/B/90/DE6R38W3CGK83CKYKWPGSG
+[2026.07.02-13.32.29:216][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/DE6R38W3CGK83CKYKWPGSGBA25E7424D371DC4137C9298EA13BA61.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/B/90/DE6R38W3CGK83CKYKWPGSG.uasset'
+[2026.07.02-13.32.29:223][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/3/WR/VL4LB2NWHHMSXSY9K2UI2O
+[2026.07.02-13.32.29:223][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/VL4LB2NWHHMSXSY9K2UI2O307513AD4ABE403A0CB5FEAC60EF3577.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/3/WR/VL4LB2NWHHMSXSY9K2UI2O.uasset'
+[2026.07.02-13.32.29:230][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/0/PB/P7M9ESOFIXCIKE2F36ZFG7
+[2026.07.02-13.32.29:230][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/P7M9ESOFIXCIKE2F36ZFG747F71F9849E62C8A0262979C1526CC82.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/0/PB/P7M9ESOFIXCIKE2F36ZFG7.uasset'
+[2026.07.02-13.32.29:238][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/D/UL/CTM741WPWLB27R4WQ6GI2N
+[2026.07.02-13.32.29:238][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/CTM741WPWLB27R4WQ6GI2NF45195814F5AF17416CCDAAA990A809E.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/D/UL/CTM741WPWLB27R4WQ6GI2N.uasset'
+[2026.07.02-13.32.29:245][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/5/L6/5S8YO8IYKI8IGKZ0KNT4CY
+[2026.07.02-13.32.29:245][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/5S8YO8IYKI8IGKZ0KNT4CY950A1AAE4CFF0C0485E69395B7F7A2F5.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/5/L6/5S8YO8IYKI8IGKZ0KNT4CY.uasset'
+[2026.07.02-13.32.29:252][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/E/B1/JC873THBUT54KCRKNW9L6Y
+[2026.07.02-13.32.29:252][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/JC873THBUT54KCRKNW9L6Y8BBDF72C4F1B09D1B3719AA9B64728DC.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/E/B1/JC873THBUT54KCRKNW9L6Y.uasset'
+[2026.07.02-13.32.29:259][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/7/S9/3YPMPB1RK2HIVBCERESI8L
+[2026.07.02-13.32.29:259][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/3YPMPB1RK2HIVBCERESI8L296B50F8446AF16024C5269D83028B2D.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/7/S9/3YPMPB1RK2HIVBCERESI8L.uasset'
+[2026.07.02-13.32.29:266][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/8/Z1/URQKICOJQ63AALTUHHJFOS
+[2026.07.02-13.32.29:266][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/URQKICOJQ63AALTUHHJFOSE917E180408E8A5308B039B6B49DECF2.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/8/Z1/URQKICOJQ63AALTUHHJFOS.uasset'
+[2026.07.02-13.32.29:273][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/7/6C/HGVE5QXNH7YLHV0YTTMKEB
+[2026.07.02-13.32.29:273][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/HGVE5QXNH7YLHV0YTTMKEBA336B9AD4B61B37585E844B31C0C8171.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/7/6C/HGVE5QXNH7YLHV0YTTMKEB.uasset'
+[2026.07.02-13.32.29:281][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/8/J6/MF5G9HN01WJHVNCIPEMD51
+[2026.07.02-13.32.29:281][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/MF5G9HN01WJHVNCIPEMD514C1CB42343C9A48866DB34B9ABA72797.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/8/J6/MF5G9HN01WJHVNCIPEMD51.uasset'
+[2026.07.02-13.32.29:289][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/C/VH/D1BT0M2QD5VIQRCJ1J1VZ8
+[2026.07.02-13.32.29:289][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/D1BT0M2QD5VIQRCJ1J1VZ89F577B5847B5FF1C29F0BD8FE4A4273D.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/C/VH/D1BT0M2QD5VIQRCJ1J1VZ8.uasset'
+[2026.07.02-13.32.29:296][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/C/NV/TLCIUNKF4QC9WA1WMOD2NE
+[2026.07.02-13.32.29:296][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/TLCIUNKF4QC9WA1WMOD2NE85CAB9E0425382FC5025CB969875BC29.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/C/NV/TLCIUNKF4QC9WA1WMOD2NE.uasset'
+[2026.07.02-13.32.29:303][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/A/9W/OEBVGSECR48TDSYZ6UGJ85
+[2026.07.02-13.32.29:303][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/OEBVGSECR48TDSYZ6UGJ85FB7B1DBC4FFAAD74154DBF94315B64F7.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/A/9W/OEBVGSECR48TDSYZ6UGJ85.uasset'
+[2026.07.02-13.32.29:310][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/2/Z2/8FRJLPHT3B8IXYXJWNEV94
+[2026.07.02-13.32.29:310][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/8FRJLPHT3B8IXYXJWNEV9491263CB245B302736BAD1DBF4086D7D9.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/2/Z2/8FRJLPHT3B8IXYXJWNEV94.uasset'
+[2026.07.02-13.32.29:317][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/6/FR/J0M5V37KC8G0YE1YRGDHOK
+[2026.07.02-13.32.29:318][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/J0M5V37KC8G0YE1YRGDHOK95FE08574ED59219C8D8538877ED64EC.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/6/FR/J0M5V37KC8G0YE1YRGDHOK.uasset'
+[2026.07.02-13.32.29:325][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/5/8X/5C3PFHWZ0SN55MFHEBRECM
+[2026.07.02-13.32.29:325][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/5C3PFHWZ0SN55MFHEBRECM326DF3714E72254E7F7DD7A4E7075481.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/5/8X/5C3PFHWZ0SN55MFHEBRECM.uasset'
+[2026.07.02-13.32.29:332][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/3/B4/MJLMGUVPVR17R33RQA2N0Q
+[2026.07.02-13.32.29:332][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/MJLMGUVPVR17R33RQA2N0Q1B1285314DF030E092FA018CE00B8BE8.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/3/B4/MJLMGUVPVR17R33RQA2N0Q.uasset'
+[2026.07.02-13.32.29:339][146]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Levels/LevelArt/4/BA/OS1RQR1ZJ81RSQP3WGY85W
+[2026.07.02-13.32.29:339][146]LogSavePackage: Moving 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/OS1RQR1ZJ81RSQP3WGY85WF114E1944ED0D441B6ABC89A4CA797C8.tmp' to 'C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Content/__ExternalActors__/Project/Levels/LevelArt/4/BA/OS1RQR1ZJ81RSQP3WGY85W.uasset'
+[2026.07.02-13.32.29:347][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 721.566 ms (total: 1.20 sec)
+[2026.07.02-13.32.29:405][146]LogContentValidation: Display: Starting to validate 83 assets
+[2026.07.02-13.32.29:405][146]LogContentValidation: Enabled validators:
+[2026.07.02-13.32.29:405][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.02-13.32.29:405][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.02-13.32.29:405][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.02-13.32.29:405][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.02-13.32.29:405][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.02-13.32.29:405][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.02-13.32.29:405][146]AssetCheck: /Game/Project/Levels/LevelArt Validation de la ressource
+[2026.07.02-13.32.29:471][146]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Lou/Documents/GitHub/RenduJulesVernes/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.02-13.32.42:546][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.02-13.32.42:667][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.07.02-13.32.42:688][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.07.02-13.32.42:706][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.07.02-13.32.42:712][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.836 ms (total: 1.37 sec)
+[2026.07.02-13.32.43:304][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.02-13.32.43:351][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.02-13.32.43:366][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.07.02-13.32.43:385][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.07.02-13.32.43:391][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.590 ms (total: 1.46 sec)
+[2026.07.02-13.32.43:890][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.02-13.32.43:954][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.07.02-13.32.43:972][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.02-13.32.43:992][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.02-13.32.43:998][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.630 ms (total: 1.56 sec)
+[2026.07.02-13.32.44:617][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.02-13.32.44:686][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.07.02-13.32.44:702][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.02-13.32.44:718][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.07.02-13.32.44:724][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.631 ms (total: 1.67 sec)
